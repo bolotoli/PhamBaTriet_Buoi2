@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\PhamBaTriet_Buoi2_PTTKTT\Merge_sort\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe.config
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\PhamBaTriet_Buoi2_PTTKTT\Merge_sort\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\PhamBaTriet_Buoi2_PTTKTT\Merge_sort\Merge_sort\Merge_sort\bin\Debug\Merge_sort.pdb
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\PhamBaTriet_Buoi2_PTTKTT\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\PhamBaTriet_Buoi2_PTTKTT\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\PhamBaTriet_Buoi2_PTTKTT\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.pdb

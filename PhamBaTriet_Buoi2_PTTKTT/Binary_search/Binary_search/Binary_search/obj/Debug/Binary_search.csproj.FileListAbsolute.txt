@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\Binary_search\Binary_search\Binary_search\bin\Debug\Binary_search.exe.config
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\Binary_search\Binary_search\Binary_search\bin\Debug\Binary_search.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\Binary_search\Binary_search\Binary_search\bin\Debug\Binary_search.pdb
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\Binary_search\Binary_search\Binary_search\obj\Debug\Binary_search.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\Binary_search\Binary_search\Binary_search\obj\Debug\Binary_search.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi2_PTTKTT\Binary_search\Binary_search\Binary_search\obj\Debug\Binary_search.pdb
